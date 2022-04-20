@@ -1,1 +1,2 @@
-the first group project
+the first group project 
+printf: to print specified format
